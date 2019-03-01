@@ -4,7 +4,7 @@ Add your answers to the questions below.
    O(n) each node is visited and a value provided
 
 2. What is the space complexity of your `depth_first_for_each` function?
-   average O(log n) total number of levels balanced tree, O(n) worst case
+   O(n) worst case
 
 3. What is the runtime complexity of your `breadth_first_for_each` method?
    O(n) each node is visited and a value provided
@@ -18,6 +18,7 @@ Add your answers to the questions below.
 
 6. What is the space complexity of the provided code in `names.py`?
    O(n \* m) total number of elements
+   O(min(n,m))
 
 7. What is the runtime complexity of your optimized code in `names.py`?
    O(n) set intersections, will run and compare the two set intersections for
